@@ -1,9 +1,9 @@
-# MetaBackEnd
-## Meta Back-End Developer Professional Certificate
+# METABACKEND
 
-### About this Professional Certificate
+## Meta Back-End Developer Professional Certificate (9 course series)
 
-Ready to gain new skills and learn the tools developers use to create websites and web applications? This 10-course program, designed by the software engineering experts at  Meta, will prepare you for an entry-level career as a back-end developer. 
+
+Ready to gain new skills and learn the tools developers use to create websites and web applications? This 10-course program, designed by the software engineering experts at Meta, will prepare you for an entry-level career as a back-end developer. 
 
 On completion, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.
 
@@ -23,17 +23,5 @@ In this program, you’ll learn:
 
 Any third-party trademarks and other intellectual property (including logos and icons) referenced in the learning experience remain the property of their respective owners. Unless specifically identified as such, Coursera’s use of third-party intellectual property does not indicate any relationship, sponsorship, or endorsement between Coursera and the owners of these trademarks or other intellectual property.
 
-### Applied Learning Project
 
-Throughout the program, you’ll engage in applied learning through hands-on activities to help level up your knowledge. At the end of each course, you’ll complete 10 micro-projects that will help prepare you for the next steps in your engineer career journey. 
-
-In these projects, you’ll use a lab environment or a web application to perform tasks such as:   
-
--Solve problems using Python code. 
-
--Manage a project in GitHub using version control in Git, Git repositories and the Linux Terminal. 
-
--Design and build a simple Django app. 
-
-At the end of the program, there will be a Capstone project where you will bring all of your knowledge together to create a Django web app.
 
