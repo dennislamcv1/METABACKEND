@@ -7,7 +7,7 @@
 # loyalty = type boolean
 
 # Modify the line below
-name = input('What is your name? ')
+name = str(input('What is your name? '))
 
 print(f"Type of name variable is: {type(name)}. It should be <class 'str'>")
 

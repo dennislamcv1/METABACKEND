@@ -19,4 +19,4 @@ cake = float(input('1 cake @: $ '))
 
 bill_total = coffee + sandwich + cake
 
-print('Your total bill is ${:4}'.format(bill_total))
+print('Your total bill is $', round(bill_total, 2))
